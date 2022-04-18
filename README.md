@@ -24,7 +24,7 @@ pod install
 ```
 
 ```zsh
-yarn run android
+yarn run ios
 ```
 
 For Apple Silicon
@@ -33,6 +33,6 @@ arch -x86_64 pod install
 ```
 
 ```zsh
-yarn run android
+yarn run ios
 ```
 
